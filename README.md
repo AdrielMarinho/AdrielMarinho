@@ -1,7 +1,8 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriel Marinho!</h1>
 
 - 🌱 I'm currently learning back end development
-- 🔥 I'm currently focused to improve my Java dev skills
+- 🔥 I'm currently focused to improve my Python dev & Data Science skills
+- 🔭 Focused on improve AWS and Docker skills
 
 
 ## Contact
